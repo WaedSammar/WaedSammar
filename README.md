@@ -4,13 +4,13 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img align="right" alt="coding" width="200" src="laptop.gif">
     <div>
-        <p>🌱 I'm currently a Computer Systems Engineering Student @ PTUK </p>
-        <p>👨‍💻 All of my projects are available at 
+        <li>🌱 I'm currently a Computer Systems Engineering Student @ PTUK </li>
+        <li>👨‍💻 All of my projects are available at 
             <a href="https://github.com/WaedSammar?tab=repositories" target="_blank"><strong>My Repositories</strong></a>
-        </p>
-        <p>📫 How to reach me: 
+        </li>
+        <li>📫 How to reach me: 
             <a href="mailto:waedsammar12@gmail.com"><strong>My Email</strong></a>
-        </p>
+        </li>
     </div>
 </div>
 
