@@ -6,6 +6,10 @@
 
 - 📫 How to reach me: [**My Email**](mailto:waedsammar12@gmail.com)
 
+<p align="right">
+  <img src="cat-typing.gif" width="150" />
+</p>
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
