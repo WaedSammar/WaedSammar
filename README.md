@@ -2,7 +2,7 @@
 <br/><br/>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img align="right" alt="coding" width="200" src="laptop.gif">
+    <img align="right" alt="coding" width="180" src="laptop.gif">
     <div>
         <li>🌱 I'm currently a Computer Systems Engineering Student @ PTUK </li>
         <li>👨‍💻 All of my projects are available at 
