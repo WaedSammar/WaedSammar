@@ -14,7 +14,7 @@
     </div>
 </div>
 
-<br/><br/>
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/waedsammar" target="_blank">
