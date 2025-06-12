@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Waed Sammar</h1>
 
-- 🌱 I’m currently **a Computer Systems Engineering Student @ PTUK**
-
-- 👨‍💻 All of my projects are available at [**My Repositories**](https://github.com/WaedSammar?tab=repositories)
-
-- 📫 How to reach me: [**My Email**](mailto:waedsammar12@gmail.com)
-
-<p align="right">
-  <img src="cat-typing.gif" width="150" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img align="right" alt="coding" width="200" src="laptop.gif">
+    <div>
+        <p>🌱 I'm currently a Computer Systems Engineering Student @ PTUK </p>
+        <p>👨‍💻 All of my projects are available at 
+            <a href="https://github.com/WaedSammar?tab=repositories" target="_blank"><strong>My Repositories</strong></a>
+        </p>
+        <p>📫 How to reach me: 
+            <a href="mailto:waedsammar12@gmail.com"><strong>My Email</strong></a>
+        </p>
+    </div>
+</div>
 
 ---
 <h3 align="left">Connect with me:</h3>
