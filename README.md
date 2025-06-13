@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Waed Sammar</h1>
+
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Waed Sammar
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4682B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" />
+</p>
 <br/><br/>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
@@ -13,6 +20,7 @@
         </li>
     </div>
 </div>
+
 
 <br/>
 <h3 align="center">Connect with me:</h3>
